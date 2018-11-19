@@ -8,3 +8,7 @@ Code for "Distort-and-Recover: Color Enhancement with Deep Reinforcement Learnin
 - ```run_train.sh``` starts training.
 - Use ```parse_test.py``` to parse the test results. (edit the paths accordingly)
 - The training speed (iterations per second) should be between 20~40 it/sec. (When trained on i5-6600 and GTX 1080)
+
+## Data
+
+- Training data for expert C, resized to maximum side 500px, JPEG format. (including RANDOM250 list) [link](https://www.dropbox.com/s/0getrmsn1bktdop/C.zip?dl=0)

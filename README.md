@@ -11,4 +11,4 @@ Code for "Distort-and-Recover: Color Enhancement with Deep Reinforcement Learnin
 
 ## Data
 
-- Training data for expert C, resized to maximum side 500px, JPEG format. (including RANDOM250 list) [link](https://www.dropbox.com/s/0getrmsn1bktdop/C.zip?dl=0)
+- MIT5K Train/Val(RANDOM250) images. Resized to maximum side 500px, JPEG format. (including RANDOM250 list) [LINK](https://www.dropbox.com/sh/web5of2dswd55b3/AABs5xY3V1CXEzfGWzBw9OUQa?dl=0)
